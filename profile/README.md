@@ -1,5 +1,5 @@
 ### Hi, Here PMII Dev👋 
-- 🔭 I’m interested in DevOps Culture and software development technologies
+- 🔭 We're interested in DevOps Culture and software development technologies
 - 🌱 Developing PMII with IT Resources
 - 📫 How to reach me: 
 
